@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ProyectoLenguajes</string>
+    <string name="congreso">Congreso</string>
+    <string name="cantidad_ocurrencias">Cantidad Ocurrencias</string>
+</resources>
