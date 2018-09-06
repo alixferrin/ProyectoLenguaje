@@ -42,7 +42,6 @@ public class Tweet {
             String tuit = a[0];
             int repeticiones = Integer.parseInt(a[1]);
             Tweet t = new Tweet(id++,tuit,repeticiones);
-            //System.out.println(t);
             lista.add(t);
         }
         b.close();
